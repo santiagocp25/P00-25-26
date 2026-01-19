@@ -17,6 +17,5 @@ def main():
     print("Listado de personas:")
     gestor.mostrar_todas()
 
-
 if __name__ == "__main__":
     main()

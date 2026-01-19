@@ -26,7 +26,6 @@ class Persona:
         # Metodo base para mostrar información (polimorfismo)
         return f"Nombre: {self._nombre}, Edad: {self._edad}"
 
-
 class Estudiante(Persona):
     # Clase derivada de Persona que representa a un estudiante
 

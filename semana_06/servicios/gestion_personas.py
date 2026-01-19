@@ -2,6 +2,7 @@
 
 from modelos.persona import Persona, Estudiante
 
+
 class GestionPersonas:
     # Clase que gestiona a varias personas/estudiantes.
 
