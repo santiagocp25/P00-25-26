@@ -4,5 +4,6 @@ class Vehiculo:
         self.marca = marca
         self.propietario = propietario
 
+
     def __str__(self):
         return f"{self.placa} - {self.marca} - {self.propietario}"

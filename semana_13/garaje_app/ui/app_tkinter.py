@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk
 from servicios.garaje_servicio import GarajeServicio
 
-
 class GarajeApp:
 
     def __init__(self, root):

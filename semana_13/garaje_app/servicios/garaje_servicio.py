@@ -1,6 +1,5 @@
 from modelos.vehiculo import Vehiculo
 
-
 class GarajeServicio:
 
     def __init__(self):
